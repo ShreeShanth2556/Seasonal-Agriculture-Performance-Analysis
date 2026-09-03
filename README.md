@@ -1,4 +1,4 @@
-# Seasonal Agriculture Performance Analysis
+<img width="1365" height="767" alt="VOIS_to be added in git" src="https://github.com/user-attachments/assets/d5b21125-d0a6-4dc4-9bcf-352ccecbea19" /># Seasonal Agriculture Performance Analysis
 
 ## Major Data Analytics Project
 
@@ -286,6 +286,8 @@ The findings and recommendations can support a better understanding of seasonal 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
 │
-├── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── README.md
 ├── seasonal_agriculture_performance_dataset.csv
-└── README.md
+├── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── Major Project_Seasonal Agriculture Performance Analysis.pdf
+└── Shree Shanth P B - VOIS Major Project.pptx
