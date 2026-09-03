@@ -11,7 +11,6 @@ This project analyzes seasonal variations in agricultural performance using a fa
 
 The project is developed as a Data Analytics project using Python and Exploratory Data Analysis techniques.
 
-> **Note:** No Machine Learning or dashboard development is used in this project.
 
 ---
 
