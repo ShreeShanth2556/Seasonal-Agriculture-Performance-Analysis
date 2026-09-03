@@ -286,8 +286,8 @@ The findings and recommendations can support a better understanding of seasonal 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
 │
-├── README.md
-├── seasonal_agriculture_performance_dataset.csv
-├── Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
-└── Shree Shanth P B - VOIS Major Project.pptx
+├── Seasonal_Agriculture_Performance_Analysis.ipynb
+├── seasonal_agriculture_performance_dataset.csv
+├── Shree Shanth P B - VOIS Major Project.pptx
+└── README.md
