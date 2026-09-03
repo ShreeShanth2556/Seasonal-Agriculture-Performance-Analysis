@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="VOIS_to be added in git" src="https://github.com/user-attachments/assets/d5b21125-d0a6-4dc4-9bcf-352ccecbea19" /># Seasonal Agriculture Performance Analysis
+# Seasonal Agriculture Performance Analysis
 
 ## Major Data Analytics Project
 
