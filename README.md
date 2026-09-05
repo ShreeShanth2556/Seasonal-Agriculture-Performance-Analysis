@@ -288,7 +288,6 @@ Seasonal-Agriculture-Performance-Analysis/
 
 ---
 
-**VOIS For Tech / AICTE Data Analytics Internship — Batch 2026-2027**
 │
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
