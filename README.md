@@ -285,9 +285,7 @@ The findings and recommendations can support a better understanding of seasonal 
 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
-
 ---
-
 │
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
