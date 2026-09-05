@@ -291,7 +291,8 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── Shree Shanth P B - VOIS Major Project.pptx
 └── README.md
+```
 
 ---
 
-**VOIS For Tech / AICTE Data Analytics Internship — Batch 2026-2027**
+*VOIS For Tech / AICTE Data Analytics Internship — Batch 2026-2027*
