@@ -285,10 +285,13 @@ The findings and recommendations can support a better understanding of seasonal 
 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
----
 │
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
 ├── Shree Shanth P B - VOIS Major Project.pptx
 └── README.md
+
+---
+
+**VOIS For Tech / AICTE Data Analytics Internship — Batch 2026-2027**
